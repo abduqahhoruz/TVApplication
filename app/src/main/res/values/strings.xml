@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TVApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="download_image">Download image</string>
+    <string name="download_song">Download song</string>
+    <string name="title_Home_info">Info</string>
+    <string name="error_load_pojo_list">list reading error</string>
+    <string name="error_offline">No internet connection</string>
+    <string name="error_server">Server error</string>
+    <string name="retry_btn">Retry</string>
+    <string name="notification_sample_desc">This is notification sample demo, in this demo, we show the downloading information in the notification panel and Activity. Every downloading task has a notification item in the notification panel and we will hold them after finishing download. In the meantime, there is a indeterminate progress bar in the activity to indicate the whole process of download.</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="delete">Delete</string>
+    <string name="notification_sample_show">Show the Notification</string>
+    <string name="error_delete_file">File deletion error</string>
+</resources>
